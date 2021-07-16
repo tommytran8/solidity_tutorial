@@ -1,2 +1,2 @@
 # solidity_tutorial
- Learning Solidity
+ Learning Solidity on Remix Ethereum IDE
